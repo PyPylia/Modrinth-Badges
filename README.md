@@ -4,7 +4,7 @@ A set of Modrinth badges to use in your GitHub README's.
 Currently, all Modrinth badges found online are outdated or lackluster compared to their CurseForge counterparts.
 This is a simple markdown document which lists many working and better looking badges.
 
-:information_source: These badges are limited in their complexity and design compared to their CurseForge counterparts as these are only using the resources provided to us by [Shields.io](https://shields.io/). The CurseForge badges use a custom service and therefore are not as limited in their complexity, however doing this for Modrinth would require hosting another custom service which I don't have the resources to do.
+> These badges are limited in their complexity and design compared to their CurseForge counterparts as these are only using the resources provided to us by [Shields.io](https://shields.io/). The CurseForge badges use a custom service and therefore are not as limited in their complexity, however doing this for Modrinth would require hosting another custom service which I don't have the resources to do.
 
 ## How To
 1. Find your Project ID (found at the bottom right of the mod page on Modrinth).
